@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MILAN SURS</h1>
+<h1 align="center">Hi 👋, I'm MILAN SURAS</h1>
 <h3 align="center">A passionate and looking forward to become DevOps Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
